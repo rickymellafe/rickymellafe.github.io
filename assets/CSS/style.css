@@ -1,0 +1,22 @@
+.color-parrafo {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav-link{
+    color: white;
+}
+.usar-hover:hover{
+    color: rgba(255,255,255,0.5);
+}
+
+.img-bg{
+    color: white;
+    background-image: url("../imgs/imagenfondo.webp");
+    background-size: cover;
+    background-position: center;
+    height: 40rem;
+    padding-top: 1rem;
+}
+
+
